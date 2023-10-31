@@ -1,0 +1,5 @@
+# Default ignored directories
+build*/
+cmake*/
+out*/
+.idea/
